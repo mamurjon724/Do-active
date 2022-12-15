@@ -1,0 +1,17 @@
+header {
+    margin-bottom: 145px;
+}
+
+header div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin: 0 auto;
+}
